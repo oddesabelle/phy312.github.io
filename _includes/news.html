@@ -1,0 +1,13 @@
+<div class="card bg-secondary mb-3">
+  <div class="card-body">
+    <h4 class="card-title">News</h4>
+
+    {% for article in site.data.news limit:9 %}
+    {{ article.date }}
+    <p class="card-text">{{ article.headline }}</p>
+    {% endfor %}
+
+    <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+
+  </div>
+</div>

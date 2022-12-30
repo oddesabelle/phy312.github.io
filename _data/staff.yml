@@ -1,0 +1,16 @@
+- name: May Lim
+  photo: may.jpg
+  info: Principal Investigator
+  email: may@nip.upd.edu.ph
+  number_educ: 2
+  education1: Ph.D. Physics, 2003, University of the Philippines Diliman
+  education2: Postdoc, 2004-2007, New England Complex Systems Institute (NECSI) with <a href="https://necsi.edu/researchers-and-staff">Yaneer Bar-Yam</a>; Brandeis University with <a href="http://hopf.chem.brandeis.edu">Irv Epstein</a>
+
+#- name: Damian Dailisan
+#  photo: damian.jpg
+#  info: Ph.D. Physics
+#  email: ddailisan@nip.upd.edu.ph
+#  number_educ: 3
+#  education1: Ph.D. Physics, 2020, University of the Philippines - Diliman
+#  education2: M.S. Physics, 2017, University of the Philippines - Diliman
+#  education3: B.S. Applied Physics, 2015, University of the Philippines - Diliman

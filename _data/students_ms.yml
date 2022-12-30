@@ -1,0 +1,35 @@
+- name: Kelvin Bartilad  #will link website soon (need to update first)
+  photo: bio-photo.jpg
+  info: M.S. Physics
+  email: kbartilad@nip.upd.edu.ph
+  number_educ: 1
+  education1: B.S. Applied Physics, University of the Philippines Diliman
+
+- name: Kenneth Leo #will link website soon (need to update first)
+  photo: leo.jpeg
+  info: M.S. Physics, started 2020
+  email: kleo@nip.upd.edu.ph
+  number_educ: 1
+  education1: B.S. Applied Physics, 2020, University of the Philippines Diliman
+
+- name: <a href="https://www.linkedin.com/in/olyndesabelle/">Olyn Desabelle</a>
+  photo: olyn_but_stronger.png
+  info: M.S. Physics, started 2022
+  email: oddesabelle@up.edu.ph, odesabelle@nip.upd.edu.ph
+  number_educ: 1
+  education1: B.S. Applied Physics, 2022, University of the Philippines Diliman
+   
+#- name: Micholo Lanz Medrana #will link website soon (need to update first)
+#  photo: bio-photo.jpg
+#  info: M.S. Physics
+#  email: mmedrana@nip.upd.edu.ph
+#  number_educ: 1
+#  education1: B.S. Applied Physics, University of the Philippines Diliman
+
+#- name: Ivan Fenis
+#  photo: ivan.jpg
+#  info: M.S. Physics
+#  email: ifenis@nip.upd.edu.ph
+#  number_educ: 2
+#  education1: M.S. Physics, 2020, University of the Philippines - Diliman
+#  education2: B.S. Applied Physics, 2018, University of the Philippines - Diliman

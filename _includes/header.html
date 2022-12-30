@@ -1,0 +1,26 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+    <a class="navbar-brand d-none d-sm-block" href="{{ site.url }}{{ site.baseurl }}/">
+      <img src="../images/cx.png" alt="Logo" style="height:26px;" class="d-inline-block align-top">
+      OlynSubs
+    </a>
+    <!-- adding a second navbar-brand since it is too long for small screens -->
+    <a class="navbar-brand d-block d-sm-none" href="{{ site.url }}{{ site.baseurl }}/">
+      <img src="../images/cx.png" alt="Logo" style="height:26px;" class="d-inline-block align-top">
+      CX Team
+    </a>
+    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse-1"
+      aria-expanded="false">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbar-collapse-1">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item"><a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
+<!--         <li class="nav-item"><a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/research">Research</a></li> -->
+      </ul>
+    </div>
+  </div>
+</nav>

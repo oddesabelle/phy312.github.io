@@ -1,0 +1,23 @@
+- name: <a href="https://acbalingit.com/cv/">Adrian Chester Balingit</a>
+  photo: chester.jpg
+  info: Ph.D. Physics, started 2018
+  email: abalingit@nip.upd.edu.ph, ac@acbalingit.com
+  number_educ: 2
+  education1: M.S. Physics, 2018, University of the Philippines - Diliman
+  education2: B.S. Applied Physics, 2014, University of the Philippines - Diliman
+
+#- name: Gerold Pedemonte
+#  photo: bio-photo.jpg
+#  info: Ph.D. Physics
+#  email: 
+#  number_educ: 2
+# education1: M.S. Physics, University of the Philippines - Diliman
+#  education2: B.S. Applied Physics, University of the Philippines - Diliman
+
+- name: Louie John Rubio
+  photo: rubio.png
+  info: Ph.D. Physics, started 2020
+  email: lrubio@nip.upd.edu.ph
+  number_educ: 2
+  education1: M.S. Physics, 2019, University of the Philippines - Diliman
+  education2: B.S. Applied Physics, 2017, University of the Philippines - Diliman
